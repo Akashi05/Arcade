@@ -75,7 +75,7 @@ To use our libraries with another group's core:
 1. Copy `lib/*.so` into their `lib/` directory
 2. Our games and display libs follow the shared interface contract
 
-**Collaboration group leader:** brouhane.gomina@epitech.eu
+**Collaboration group leader:** aurel.pliya@epitech.eu
 
 ---
 
@@ -85,7 +85,7 @@ To use our libraries with another group's core:
 |------|-------|
 | Bérenger Sessou | berenger.sessou@epitech.eu |
 | Ramziath Zakari | ramziathzakari@epitech.eu |
-| Brouhane Gomina | brouhane.gomina@epitech.eu |
+| Aurel Pliya | aurel.pliya@epitech.eu |
 
 ---
 
